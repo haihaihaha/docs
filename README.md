@@ -1,2 +1,2 @@
-# vp_docs
+# docs
 第一次搭建的vuepress文档
